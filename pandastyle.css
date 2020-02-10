@@ -16,6 +16,7 @@ body{
     margin: 0px auto;
     background-color: whitesmoke;
     padding: 1px 40px 40px 40px;
+    border-left: solid 25px pink;
 }
 
 h1{
