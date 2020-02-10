@@ -6,20 +6,32 @@ img{
 body{
     font-family: Arial;
     line-height: 25px;
+    background-color: yellow;
+    margin: 0;
     
 }
 
 .column{
     width: 600px;
-    margin: 40px,auto;
+    margin: 0px auto;
+    background-color: whitesmoke;
+    padding: 1px 40px 40px 40px;
+    border-left: solid 25px pink;
 }
 
 h1{
     font-size: 60px;
     font-family: Georgia;
+    background-color: rgb(172, 73, 172);
+    line-height: 80px;
+    padding: 20px;
 }
 
 h1,h2{
     color: rgb(48, 190, 48);
     text-shadow: 0px 0px 10px #1c67c9;
+
+p{
+    background-color: green;
+    padding: 20px;
 }
