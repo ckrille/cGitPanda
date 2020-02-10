@@ -15,3 +15,8 @@ body{
     padding: 20px;
     
 }
+p{
+    border: solid 5px  #112233;
+    padding: 20px; 
+
+}
