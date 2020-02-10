@@ -11,5 +11,7 @@ body{
 .column{
     width: 600px;
     margin: 40px,auto;
-    border: dotted 15px #112233
+    border: dotted 15px #112233;
+    padding: 20px;
+    
 }
